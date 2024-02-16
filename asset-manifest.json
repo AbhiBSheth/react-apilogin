@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-apilogin/static/css/main.a1fcd363.css",
+    "main.js": "/react-apilogin/static/js/main.5c8ffb44.js",
+    "static/js/592.3ed96dea.chunk.js": "/react-apilogin/static/js/592.3ed96dea.chunk.js",
+    "index.html": "/react-apilogin/index.html",
+    "main.a1fcd363.css.map": "/react-apilogin/static/css/main.a1fcd363.css.map",
+    "main.5c8ffb44.js.map": "/react-apilogin/static/js/main.5c8ffb44.js.map",
+    "592.3ed96dea.chunk.js.map": "/react-apilogin/static/js/592.3ed96dea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1fcd363.css",
+    "static/js/main.5c8ffb44.js"
+  ]
+}
